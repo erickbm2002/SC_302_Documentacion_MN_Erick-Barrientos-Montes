@@ -1,1 +1,1 @@
-# SC_302_Documentacion_MN_Erick-Barrientos-Montes
+Estoy editando el archivo readme
